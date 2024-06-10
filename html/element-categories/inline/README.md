@@ -5,6 +5,7 @@
   - [bottom index](#bottom-index)
   - [button](#button)
   - [summary](#summary)
+  - [fix the bug](#fix-the-bug)
 
 ## adding a link 
 <details>
@@ -76,6 +77,24 @@ Hint: here is a link to the Wikipedia site - https://en.wikipedia.org/wiki/Main_
 
 ### solution
 [summary.html](./summary.html)
+
+</details>
+ 
+## fix the bug
+<details>
+<summary>fix the bug</summary>
+
+### description
+You and your peer programmer are playing a game where you must choose one HTML element from a given set of five elements and use it once to replace an existing `<p>` tag. The goal is to display a given quote on a single line without any additional styling or effects.
+
+Five available HTML elements: `<button>`, `<span>`, `<b>`, `<sup>`, `<sub>`
+
+### tasks
+- [x] The code is valid.
+- [x] You have chosen correct HTML element from the list above.
+
+### solution
+[fix-the-bug.html](./fix-the-bug.html)
 
 </details>
 
