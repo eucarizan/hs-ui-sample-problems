@@ -3,6 +3,7 @@
 - [inline elements](#inline-elements)
   - [adding a link](#adding-a-link)
   - [bottom index](#bottom-index)
+  - [button](#button)
 
 ## adding a link 
 <details>
@@ -38,6 +39,22 @@ H<sub>2</sub> + 0.5O<sub>2</sub> = H<sub>2</sub>O
 
 ### solution
 [bottom-index.html](./bottom-index.html)
+
+</details>
+ 
+## button
+<details>
+<summary>Button</summary>
+
+### description
+Use an appropriate tag instead of a paragraph tag to make a button.
+Please make sure that the tag has exactly this text: `Click here to buy one for yourself!`
+
+### tasks
+- [x] Required tag added
+
+### solution
+[button.html](./button.html)
 
 </details>
 
