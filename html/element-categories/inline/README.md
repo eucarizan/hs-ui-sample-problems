@@ -2,6 +2,7 @@
 
 - [inline elements](#inline-elements)
   - [adding a link](#adding-a-link)
+  - [bottom index](#bottom-index)
 
 ## adding a link 
 <details>
@@ -18,6 +19,25 @@ Add a link, with the url `https://google.com` and the text `Google`.
 
 ### solution
 [link.html](./link.html)
+
+</details>
+ 
+## bottom index
+<details>
+<summary>bottom index</summary>
+
+### description
+Create an element `<p>` and inside create a formula:
+H<sub>2</sub> + 0.5O<sub>2</sub> = H<sub>2</sub>O
+
+### tasks
+- [x] The code is valid
+- [x] Inside the \<html> tag is the \<body> tag
+- [x] Inside the \<body> tag there's one \<p> tag.
+- [x] The formula is correct; There are 3 subscripted text numbers inside the \<p> tag
+
+### solution
+[bottom-index.html](./bottom-index.html)
 
 </details>
 
