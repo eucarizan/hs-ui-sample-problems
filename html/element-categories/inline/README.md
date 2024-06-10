@@ -4,6 +4,7 @@
   - [adding a link](#adding-a-link)
   - [bottom index](#bottom-index)
   - [button](#button)
+  - [summary](#summary)
 
 ## adding a link 
 <details>
@@ -55,6 +56,26 @@ Please make sure that the tag has exactly this text: `Click here to buy one for 
 
 ### solution
 [button.html](./button.html)
+
+</details>
+ 
+## summary
+<details>
+<summary>Summary</summary>
+
+### description
+You should use the appropriate tags to complete the tasks that you are asked to do in the already written paragraphs below. Do not remove the paragraph tags, add additional tags to them.
+
+Hint: here is a link to the Wikipedia site - https://en.wikipedia.org/wiki/Main_Page
+
+### tasks
+- [x] Required tag added in the first paragraph
+- [x] Required tag added in the second paragraph
+- [x] Required tag added in the third paragraph
+- [x] Required tag added in the fifth paragraph
+
+### solution
+[summary.html](./summary.html)
 
 </details>
 
