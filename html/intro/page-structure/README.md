@@ -53,7 +53,7 @@ Complete the structure of the following HTML document
 
 </details>
 
-[<<](../../README.md)
+[<<](../../../README.md)
 <!--
 :%s/\(Sample \(Input\|Output\) \d:\)\n\(.*\)/```\r\r**\1**\r```\3/gc
 -->
