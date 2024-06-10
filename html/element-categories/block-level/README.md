@@ -3,6 +3,7 @@
 - [block level elements](#block level elements)
   - [hello world](#hello-world)
   - [a universal container](#a-universal-container)
+  - [a story about yourself](#a-story-about yourself)
 
 ## hello world 
 <details>
@@ -53,6 +54,32 @@ The text of the web page can be copied from here:
 
 ### solution
 [universal-container.html](./universal-container.html)
+
+</details>
+ 
+## a story about yourself
+<details>
+<summary>A story about yourself</summary>
+
+### description
+Let's get acquainted! Tell us a little about yourself: create a markup HTML file, write whatever you like, and put your text in the `<p>` tag. Don't forget to make a title for your story and put it in `<h1>`. [Find a tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) to wrap a long quote in and add your favorite quote to the story.
+
+If you do not want to write about yourself, you can use a random text.
+
+### tasks
+- [x] It is necessary to have \<h1> tag in HTML code
+- [x] It is necessary to have \<p> tag in HTML code
+- [x] Tag \<h1> contains text
+- [x] Tag \<p> contains text
+- [x] Inside the \<html> tag is the \<head> tag
+- [x] Inside the \<head> tag is the \<title> tag
+- [x] Inside the \<head> tag is the \<meta> tag with "charset" attribute
+- [x] Inside the \<html> tag is the \<body> tag
+- [x] There's a text in the quote tag that is indented by the browser.
+- [x] The code is valid
+
+### solution
+[self-story.html](./self-story.html)
 
 </details>
 
